@@ -576,6 +576,14 @@ body {
         opacity: 0.1;
     }
 
+    .main_content {
+        padding: 2rem;
+    }
+
+    .header {
+        padding: 2rem;
+    }
+
     .form_img_bg,
     .form_img {
         display: none;
@@ -584,13 +592,6 @@ body {
 
     .form_input {
         max-width: 100%;
-    }
-    .main_content {
-        padding: 2rem;
-    }
-
-    .header {
-        padding: 2rem;
     }
 
     .form_button {
@@ -609,6 +610,7 @@ body {
     }
 
     .footer_menu {
+        padding: 0;
         display: flex;
         gap: 1rem;
         justify-content: space-around;
