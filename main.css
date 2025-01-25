@@ -585,6 +585,13 @@ body {
     .form_input {
         max-width: 100%;
     }
+    .main_content {
+        padding: 2rem;
+    }
+
+    .header {
+        padding: 2rem;
+    }
 
     .form_button {
         max-width: 100%;
